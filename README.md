@@ -4,21 +4,21 @@
 
 # 👋 Hi, I'm Mark Mashifane
 
-## ☁️ Azure Cloud Engineer | AZ-900 Certified | AZ-104 Candidate
+## ☁️ Azure Cloud Engineer | Microsoft Azure | AZ-900 Certified | AZ-104 Candidate
 
-I'm passionate about designing, deploying and automating Microsoft Azure infrastructure using **Infrastructure as Code (Bicep)**, **Azure CLI**, and **PowerShell**.
+I'm passionate about designing, deploying, and automating Microsoft Azure infrastructure using **Infrastructure as Code (Bicep)**, **Azure CLI**, and **PowerShell**.
 
-I enjoy building enterprise-scale Azure projects that follow Microsoft best practices while continuously expanding my cloud engineering skills.
+My goal is to become a Cloud Engineer who builds secure, scalable, and enterprise-ready cloud solutions following Microsoft best practices.
 
 ---
 
 # 🚀 Current Focus
 
-- 🎯 Microsoft Azure Administrator (AZ-104)
+- 🎯 Microsoft Certified: Azure Administrator (AZ-104)
 - ☁️ Azure Infrastructure
 - 🏗️ Infrastructure as Code (Bicep)
-- ⚡ Azure CLI Automation
-- 💻 PowerShell Scripting
+- ⚡ Azure CLI
+- 💻 PowerShell Automation
 - 🔐 Azure Identity & RBAC
 - 📊 Azure Monitoring
 - 🏢 Enterprise Cloud Architecture
@@ -28,20 +28,21 @@ I enjoy building enterprise-scale Azure projects that follow Microsoft best prac
 # 🛠️ Tech Stack
 
 ### Cloud
+
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### Infrastructure as Code
+
 ![Bicep](https://img.shields.io/badge/Bicep-519ABA?style=for-the-badge)
 ![ARM Templates](https://img.shields.io/badge/ARM_Templates-0078D4?style=for-the-badge)
 
 ### Automation
+
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Azure CLI](https://img.shields.io/badge/Azure_CLI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### Operating Systems
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-
 ### Version Control
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
@@ -49,114 +50,140 @@ I enjoy building enterprise-scale Azure projects that follow Microsoft best prac
 
 # 📂 Featured Azure Projects
 
-### ☁️ Azure Enterprise Bicep IaC
-Enterprise Infrastructure as Code deployment using reusable Bicep modules.
+## ☁️ Azure Enterprise Bicep IaC
 
-**Features**
+Enterprise Infrastructure as Code project built with reusable Bicep modules.
+
+**Highlights**
+
 - Modular Bicep Architecture
+- Azure Virtual Machine Deployment
 - Virtual Networks
 - Network Security Groups
-- Public IP
-- Network Interface
-- Windows Server Virtual Machine
-- Storage Account
+- Public IP Addresses
+- Network Interfaces
+- Storage Accounts
 - Environment Parameter Files
-- Reusable Modules
 - GitHub Documentation
+- Architecture Diagram
 
-🔗 Repository:
-https://github.com/markmashifane/azure-enterprise-bicep-iac
-
----
-
-### 🔐 Azure Identity & RBAC
-
-Designed secure enterprise identity management using Azure Role-Based Access Control.
+🔗 **Repository:** [Azure Enterprise Bicep IaC](https://github.com/markmashifane/azure-enterprise-bicep-iac)
 
 ---
 
-### 🏢 Azure Landing Zone
+## 🔐 Azure Identity & RBAC
 
-Designed and deployed enterprise Azure networking following Microsoft best practices.
-
----
-
-### ⚙️ Azure Automation
-
-Automation using:
-
-- Azure CLI
-- PowerShell
-- Runbooks
-- Automation Accounts
+Enterprise implementation of Azure Role-Based Access Control.
 
 ---
 
-### 📊 Azure Monitoring
+## 🌐 Azure Enterprise Networking
 
-Configured:
-
-- Azure Monitor
-- Log Analytics
-- VM Insights
-- Data Collection Rules
-- Alerting
+Enterprise networking with Virtual Networks, NSGs, Bastion, and routing.
 
 ---
 
-### 💰 Azure Cost Management
+## 📊 Azure Monitoring & Log Analytics
 
-Implemented governance for:
-
-- Budgets
-- Cost Analysis
-- Resource Tagging
-- Spending Reports
+Monitoring solution using Azure Monitor, VM Insights, Log Analytics, and Alerts.
 
 ---
 
-### 🛡️ Azure Policy & Governance
+## 🏢 Azure Landing Zone
 
-Implemented:
+Enterprise Azure Landing Zone following Microsoft's Cloud Adoption Framework.
 
-- Azure Policy
-- Resource Compliance
-- Tag Enforcement
-- Governance Standards
+---
+
+## 🛡️ Azure Policy & Governance
+
+Azure governance using Policies, Resource Locks, and Resource Tags.
+
+---
+
+## 💰 Azure Cost Management
+
+Enterprise cost governance with Budgets, Cost Analysis, and Resource Tagging.
+
+---
+
+## ⚙️ Azure Automation
+
+Automation using Azure CLI, PowerShell, and Azure Automation.
 
 ---
 
 # 🎓 Certifications
 
+## Completed
+
 ✅ Microsoft Certified: Azure Fundamentals (AZ-900)
 
-📖 Currently Studying
+## Currently Studying
 
-- AZ-104 Azure Administrator Associate
+📖 Microsoft Certified: Azure Administrator Associate (AZ-104)
 
 ---
 
 # 📈 GitHub Stats
 
-![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=markmashifane&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=markmashifane&show_icons=true&theme=tokyonight" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markmashifane&layout=compact&theme=tokyonight" height="170">
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=markmashifane&layout=compact&theme=tokyonight)
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=markmashifane&theme=tokyonight"/>
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=markmashifane&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+# 💼 Technical Skills
+
+- Microsoft Azure
+- Azure Virtual Machines
+- Azure Virtual Networks
+- Azure Storage
+- Azure RBAC
+- Azure Monitor
+- Log Analytics
+- Azure Policy
+- Azure CLI
+- PowerShell
+- Bicep
+- Git
+- GitHub
 
 ---
 
 # 📫 Connect With Me
 
-📧 phokengmk@gmail.com
+📧 **phokengmk@gmail.com**
 
-📧 markmashifane@gmail.com
+📧 **markmashifane@gmail.com**
 
-💼 LinkedIn *(Coming Soon)*
+🌐 **GitHub**
 
-🌐 GitHub
+https://github.com/markmashifane
 
-🔗 **Repository:** <https://github.com/markmashifane/azure-enterprise-bicep-iac>
+💼 **LinkedIn**
+
+*Coming Soon*
 
 ---
 
+> **"Building secure, scalable, and automated Azure cloud solutions one project at a time."**
 > *"Building secure, scalable Azure solutions one project at a time."*
 > *"Always learning. Always building. Always improving."*

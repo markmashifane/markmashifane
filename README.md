@@ -154,7 +154,7 @@ Implemented:
 
 🌐 GitHub
 
-https://github.com/markmashifane
+🔗 **Repository:** <https://github.com/markmashifane/azure-enterprise-bicep-iac>
 
 ---
 

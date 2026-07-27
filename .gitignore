@@ -1,0 +1,50 @@
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Azure CLI
+.azure/
+
+# PowerShell
+*.ps1xml
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Environment variables
+.env
+.env.*
+
+# Bicep build output
+*.bicepbuild
+
+# Terraform (for future projects)
+.terraform/
+terraform.tfstate
+terraform.tfstate.*
+crash.log
+
+# Node.js (GitHub Actions)
+node_modules/
+
+# Python (future automation)
+__pycache__/
+*.pyc
+
+# Zip archives
+*.zip

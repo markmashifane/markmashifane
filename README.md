@@ -180,7 +180,7 @@ https://github.com/markmashifane
 
 💼 **LinkedIn**
 
-*Coming Soon*
+https://linkedin/in/markmashifane
 
 ---
 

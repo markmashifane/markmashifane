@@ -1,6 +1,8 @@
-# Hi there 👋 I'm Mark Mashifane
+<p align="center">
+  <img src="github-banner.png" alt="Mark Mashifane Banner" width="100%">
+</p>
 
-![Banner](assets/banner.png)
+# Hi there 👋 I'm Mark Mashifane
 
 # ☁️ Microsoft Certified Azure Administrator Associate (AZ-104)
 
